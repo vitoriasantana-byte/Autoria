@@ -1,0 +1,14 @@
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\bin\Debug\net8.0\Autoria_Milena_2dds.exe
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\bin\Debug\net8.0\Autoria_Milena_2dds.deps.json
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\bin\Debug\net8.0\Autoria_Milena_2dds.runtimeconfig.json
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\bin\Debug\net8.0\Autoria_Milena_2dds.dll
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\bin\Debug\net8.0\Autoria_Milena_2dds.pdb
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\Autoria_Milena_2dds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\Autoria_Milena_2dds.AssemblyInfoInputs.cache
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\Autoria_Milena_2dds.AssemblyInfo.cs
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\Autoria_Milena_2dds.csproj.CoreCompileInputs.cache
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\Autoria_Milena_2dds.dll
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\refint\Autoria_Milena_2dds.dll
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\Autoria_Milena_2dds.pdb
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\Autoria_Milena_2dds.genruntimeconfig.cache
+D:\Vitória Santana DDS01\Autoria\Autoria_Milena_2dds\Autoria_Milena_2dds\obj\Debug\net8.0\ref\Autoria_Milena_2dds.dll
