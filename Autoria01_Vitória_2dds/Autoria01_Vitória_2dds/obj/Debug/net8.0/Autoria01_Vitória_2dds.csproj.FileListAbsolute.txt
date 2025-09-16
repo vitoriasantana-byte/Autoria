@@ -1,0 +1,15 @@
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\bin\Debug\net8.0\Autoria01_Vitória_2dds.exe
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\bin\Debug\net8.0\Autoria01_Vitória_2dds.deps.json
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\bin\Debug\net8.0\Autoria01_Vitória_2dds.runtimeconfig.json
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\bin\Debug\net8.0\Autoria01_Vitória_2dds.dll
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\bin\Debug\net8.0\Autoria01_Vitória_2dds.pdb
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.AssemblyInfoInputs.cache
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.AssemblyInfo.cs
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.csproj.CoreCompileInputs.cache
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.sourcelink.json
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.dll
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\refint\Autoria01_Vitória_2dds.dll
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.pdb
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\Autoria01_Vitória_2dds.genruntimeconfig.cache
+D:\Vitória Santana DDS01\Atvs01\Autoria01_Vitória_2dds\Autoria01_Vitória_2dds\obj\Debug\net8.0\ref\Autoria01_Vitória_2dds.dll
